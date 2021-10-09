@@ -79,6 +79,9 @@ Dodatkowy wariant aplikacji dla restauracji: plan na przyszłość z rozszerzon�
 - Premium: OCR do etykiet
 - Porównywarka cen produktów w kilku sklepach
 - Dostosowanie ilości składników do wybranej liczby osób
-- Integracja z Alexa
+- Integracja z asystentami
 - Integracja z lodówką Samsunga
 - Aplikacja na smart lodówki
+- Nagrody za aktywność
+- Premium: integracja z aplikacjami fitnessowymi
+- Premium: dostęp do API
