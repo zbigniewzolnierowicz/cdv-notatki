@@ -76,3 +76,9 @@ Dodatkowy wariant aplikacji dla restauracji: plan na przyszłość z rozszerzon�
     - Mozna manualnie zmienić co wziąłeś
 - Opcję dodawania kalorii (premium?)
 - Premium: liczenie kalorii i przypominanie o posiłkach
+- Premium: OCR do etykiet
+- Porównywarka cen produktów w kilku sklepach
+- Dostosowanie ilości składników do wybranej liczby osób
+- Integracja z Alexa
+- Integracja z lodówką Samsunga
+- Aplikacja na smart lodówki
