@@ -71,3 +71,8 @@ Dodatkowy wariant aplikacji dla restauracji: plan na przyszłość z rozszerzon�
 
 - Wpisywanie, ile czego zuzyłeś jest uciązliwe (niedokładne miary, zmudny proces)
 - Jakie dodatkowe funkcje dla premium?
+- "Nawyki" - dodawanie częstych czynności i automatyczne usuwanie określonej ilości składników
+- Automatyczne usuwanie składników na podstawie przepisu
+    - Mozna manualnie zmienić co wziąłeś
+- Opcję dodawania kalorii (premium?)
+- Premium: liczenie kalorii i przypominanie o posiłkach
