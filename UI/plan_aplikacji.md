@@ -66,3 +66,8 @@ Słabe:
 ## Plany na przyszłość (za żadne skarby nie będziemy robić do tego designu)
 
 Dodatkowy wariant aplikacji dla restauracji: plan na przyszłość z rozszerzoną Szafką i wyciętą częścią społecznościową Kuchni
+
+## Uwagi
+
+- Wpisywanie, ile czego zuzyłeś jest uciązliwe (niedokładne miary, zmudny proces)
+- Jakie dodatkowe funkcje dla premium?
