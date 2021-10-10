@@ -199,3 +199,107 @@ Nie będzie korzystał z funkcji premium, ponieważ nie ma pieniędzy.
 | Kuchnia               | wyszukanie prostego przepisu         | mobilnie |                                                                                 | Brak preloadowanych przepisów                                  | Sugestia najpopularniejszych przepisów od społeczności             |
 | Część społecznościowa | dodanie przepisu do Kuchnii          | mobilnie | Wyraźnie widoczny przycisk dodania przepisu do Kuchnii                          | Jeżeli nie doda przepisu od razu, trudniej do niego się dostać | Dodać historię ostatnio przeglądanych przepisów                    |
 | Widok przepisu        | gotowanie danego przepisu            | mobilnie | podany czas pasywny i aktywny; wyróżnienie, które produkty posiada, a które nie |                                                                |                                                                    |
+
+### Persona 3 - Starszy pan
+
+![](./oldman.jpeg)
+
+### Dane
+
+Imię i nazwisko: Jerzy Staryczłowiek
+
+Cytat:
+
+> Ał, moje biodro.
+
+Wiek: 63
+
+Zarobki: 5400 zł
+
+Wykształcenie: wyższe
+
+Zawód: inżynier elektryk
+
+Stanowisko: elektryk
+
+Lokalizacja: przedmieścia Nowego Tomyśla
+
+Introwertyk/Ekstrawertyk: 30% I 70% E
+
+Analityczny/Kreatywny: 75% A 25% K
+
+Konserwatywny/Liberalny: 70% K 30% L
+
+Pasywny/Aktywny: 60% P 40% A
+
+### Historia
+
+| Cele                 | Frustracje        | Bio |
+| -------------------- | ----------------- | --- |
+| przejść na emeryturę | system emerytalny |     |
+
+#### Cechy charakterystyczne:
+
+- rozwiązuje krzyżówki
+- ma dużo oszczędności
+- nie gotuje często
+- chciałby spróbować nowych rzeczy
+
+### Szczegóły
+
+#### Motywacje
+
+Determinacja: 9/10
+
+Obawa: 9/10
+
+Osiąganie: 5/10
+
+Rozwój: 6/10
+
+Decyzyjność: 7/10
+
+Socjalność: 7/10
+
+#### Kanały komunikacji
+
+Tradycyjna reklama/Internet i social media: 100% T 0% I
+
+Polecenie/PR oraz marketing szeptany: 70% P 30% PR
+
+#### Ulubione marki:
+
+- Saga
+- Prima
+- Maggi
+- Grześkowiak
+
+### Empathy map
+
+- Co myśli i czuje
+  - zarazem, smutek że świat zostawia go w tyle
+- Co słyszy
+  - jest pół-głuchy
+- Co widzi
+  - zadbany ogródek
+  - garaż ze starym Maluchem, z którym coś chce zrobić ale nie może się do tego zabrać
+- Co mówi i robi
+  - narzeka na młodych
+- Bolączki
+  - wszystko, bo jest stary
+- Korzyści
+  - więcej czasu dzięki zbliżającej się emeryturze
+
+### Projekt
+
+#### Scenariusz
+
+Jerzy ma wystarczająco wysokie zarobki, żeby przeznaczyć trochę pieniędzy na konto premium
+
+| Etapy                 | Potrzeby i aktywności                                                 | Kanały | Dobre doświadczenia UX                                       | Złe doświadczenia UX                           | Usprawnienia                                                                                                                               |
+| --------------------- | --------------------------------------------------------------------- | ------ | ------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Login                 | utworzenie konta lub zalogowania się                                  | web    | Prosty flow rejestracji                                      |                                                |                                                                                                                                            |
+| Szafka                | dodanie przedmiotów do szafki                                         | web    | Ułatwienie dostępu do aktualnego stanu lodówki               | Nadmiar opcji i informacji                     | Tryb uproszczony                                                                                                                           |
+| Kuchnia               | wyszukanie prostego przepisu                                          | web    | Może odkryć nowe przepisy z produktów, które już ma w szafce | Nadmierna komplikacja filtrowania              | Dobre domyślne filtry, z łatwą opcją wyłączenia ich, lub przycisk do automatycznego zasugerowania losowego przepisu ze składników w szafce |
+| Część społecznościowa | dodanie przepisu do Kuchnii                                           | web    | Od razu widzi, który przepis jest najlepiej oceniany         | Brak zainteresowania opcjami społecznościowymi |                                                                                                                                            |
+| Forum                 | rozmowa z innymi ludźmi na tematy niekoniecznie związane z gotowaniem | web    | Szeroka gama podforów                                        | Słaba moderacja                                | Zatrudnić moderatorów ze społeczności                                                                                                      |
